@@ -1,0 +1,60 @@
+Unicode: 73 Character: I  Count: 15
+Unicode: 110 Character: n  Count: 182
+Unicode: 116 Character: t  Count: 212
+Unicode: 114 Character: r  Count: 159
+Unicode: 111 Character: o  Count: 200
+Unicode: 100 Character: d  Count: 84
+Unicode: 117 Character: u  Count: 65
+Unicode: 99 Character: c  Count: 88
+Unicode: 105 Character: i  Count: 180
+Unicode: 13 Character:   Count: 43
+Unicode: 10 Character: 
+  Count: 43
+Unicode: 84 Character: T  Count: 6
+Unicode: 104 Character: h  Count: 85
+Unicode: 115 Character: s  Count: 175
+Unicode: 32 Character:    Count: 467
+Unicode: 112 Character: p  Count: 64
+Unicode: 97 Character: a  Count: 204
+Unicode: 101 Character: e  Count: 300
+Unicode: 118 Character: v  Count: 23
+Unicode: 108 Character: l  Count: 90
+Unicode: 109 Character: m  Count: 85
+Unicode: 102 Character: f  Count: 74
+Unicode: 98 Character: b  Count: 33
+Unicode: 103 Character: g  Count: 57
+Unicode: 119 Character: w  Count: 33
+Unicode: 45 Character: -  Count: 7
+Unicode: 83 Character: S  Count: 13
+Unicode: 49 Character: 1  Count: 9
+Unicode: 57 Character: 9  Count: 9
+Unicode: 53 Character: 5  Count: 3
+Unicode: 54 Character: 6  Count: 4
+Unicode: 56 Character: 8  Count: 3
+Unicode: 107 Character: k  Count: 4
+Unicode: 121 Character: y  Count: 25
+Unicode: 40 Character: (  Count: 3
+Unicode: 70 Character: F  Count: 4
+Unicode: 79 Character: O  Count: 1
+Unicode: 82 Character: R  Count: 2
+Unicode: 65 Character: A  Count: 4
+Unicode: 78 Character: N  Count: 1
+Unicode: 76 Character: L  Count: 10
+Unicode: 80 Character: P  Count: 9
+Unicode: 41 Character: )  Count: 3
+Unicode: 44 Character: ,  Count: 24
+Unicode: 50 Character: 2  Count: 3
+Unicode: 46 Character: .  Count: 16
+Unicode: 69 Character: E  Count: 1
+Unicode: 120 Character: x  Count: 12
+Unicode: 113 Character: q  Count: 3
+Unicode: 72 Character: H  Count: 1
+Unicode: 122 Character: z  Count: 1
+Unicode: 58 Character: :  Count: 3
+Unicode: 66 Character: B  Count: 1
+Unicode: 67 Character: C  Count: 4
+Unicode: 55 Character: 7  Count: 3
+Unicode: 77 Character: M  Count: 2
+Unicode: 47 Character: /  Count: 6
+Unicode: 106 Character: j  Count: 1
+Unicode: 74 Character: J  Count: 1
